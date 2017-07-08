@@ -1,0 +1,8 @@
+/Users/jaisina/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp1.1/dictionaries.deps.json
+/Users/jaisina/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp1.1/dictionaries.runtimeconfig.json
+/Users/jaisina/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp1.1/dictionaries.runtimeconfig.dev.json
+/Users/jaisina/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp1.1/dictionaries.AssemblyInfo.cs
+/Users/jaisina/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp1.1/dictionaries.dll
+/Users/jaisina/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp1.1/dictionaries.pdb
+/Users/jaisina/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp1.1/dictionaries.dll
+/Users/jaisina/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp1.1/dictionaries.pdb
